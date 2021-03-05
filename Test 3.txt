@@ -1,4 +1,4 @@
-merge success
 master branch
 main branch
 
+test --amend
