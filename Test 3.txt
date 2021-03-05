@@ -2,3 +2,5 @@ master branch
 main branch
 
 test --amend
+
+test reset
